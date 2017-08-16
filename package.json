@@ -1,0 +1,17 @@
+{
+  "name": "kristianfrost.dk",
+  "version": "1.0.0",
+  "description": "My website",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krixian/kristianfrost.dk.git"
+  },
+  "author": "Kristian Frost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krixian/kristianfrost.dk/issues"
+  },
+  "homepage": "https://github.com/krixian/kristianfrost.dk#readme"
+}
