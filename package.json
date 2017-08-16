@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My website",
   "scripts": {
+    "serve": "browser-sync start --server --no-notify --no-ui --files=\"index.html,main.css\""
   },
   "repository": {
     "type": "git",
@@ -13,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/krixian/kristianfrost.dk/issues"
   },
-  "homepage": "https://github.com/krixian/kristianfrost.dk#readme"
+  "homepage": "https://github.com/krixian/kristianfrost.dk#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
 }
